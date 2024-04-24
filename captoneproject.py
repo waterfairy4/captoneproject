@@ -290,6 +290,7 @@ for i, category in enumerate(cluster_categories):
 
 # Define the app
 app = dash.Dash(__name__)
+server = app.server
 
 
 # Define the layout of the dashboard
