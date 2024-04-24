@@ -1,0 +1,11 @@
+dash==2.6.0
+pandas
+os
+numpy
+matplotlib
+seaborn
+sklearn
+math
+itertools
+time
+plotly.express
