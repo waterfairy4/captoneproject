@@ -6,6 +6,4 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-itertools
-time
 plotly
