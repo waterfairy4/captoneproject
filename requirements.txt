@@ -4,8 +4,8 @@ gunicorn
 numpy
 matplotlib
 seaborn
-sklearn
+scikit-learn
 math
 itertools
 time
-plotly.express
+plotly
