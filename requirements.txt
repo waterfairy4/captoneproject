@@ -6,7 +6,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-math
 itertools
 time
 plotly
